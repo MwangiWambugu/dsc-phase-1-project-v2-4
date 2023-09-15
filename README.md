@@ -38,13 +38,13 @@ To look at revenue trends in the regional and global arena.
 ![GitHub Logo](output.png)
 This shows the top studios by revenue.
 
-![GitHub Logo](output 2.png)
+![GitHub Logo](output2.png)
 This shows Domestic versus foreign gross.
 
-![GitHub Logo](output 3.png)
+![GitHub Logo](output3.png)
 This shows the top genre
 
-![GitHub Logo](output 4.png)
+![GitHub Logo](output4.png)
 This shows movies by highest average rating
 
 #### Recommendation.
